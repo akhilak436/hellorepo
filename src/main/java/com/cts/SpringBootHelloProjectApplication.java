@@ -21,7 +21,7 @@ public class SpringBootHelloProjectApplication {
 	
 	 @GetMapping("/{name}")
 	    public String welcome(@PathVariable String name) {
-	        return "Hi " + name + " Welcome to  AWS ECS Example";
+	        return "Hi " + name + " Welcome to  AWS ECS using CICD Example";
 	    }
 
 }
