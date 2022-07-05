@@ -29,5 +29,5 @@ phases:
 artifacts:
   files:
    - imagedefinitions.json
-   - target/SpringBootHelloProject.jar
+   - target/SpringBootHelloProject-0.0.1-SNAPSHOT.jar
 
